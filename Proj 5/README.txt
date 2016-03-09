@@ -1,0 +1,1 @@
+A program about pointers and basic dynamic memory allocation.

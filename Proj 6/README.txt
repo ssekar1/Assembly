@@ -1,0 +1,2 @@
+C++ has a vector class, which is basically an array-like structure that can grow without the client code worrying
+about memory management. This program is about C version of the vector to hold a collection of FRACTIONS.

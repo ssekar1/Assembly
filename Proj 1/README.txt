@@ -1,5 +1,4 @@
-A program using nasm that will ask the user for one ASCII character at a time and will produce output based
-on the rules below:
+A program using nasm that will ask the user for one ASCII character at a time and will produce output based on the rules below:
 
 1. If it is a lower case alphabetic character, it will output the upper case version
 
